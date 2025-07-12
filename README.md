@@ -1,8 +1,8 @@
-📱 Mobile_Data-Dashboard
+📱 Mobile_Sales-Dashboard
 An interactive Power BI dashboard that visualizes mobile phone sales data across India — helping you explore brand performance, regional trends, customer behavior, and payment preferences at a glance
 
 🧾 1. Project Title
-Mobile_Data-Dashboard
+Mobile_Sales-Dashboard
 
 The name reflects the project's core goal:
 🔍 To transform raw mobile sales data into interactive, insightful, and user-friendly visualizations that aid in smart decision-making.
